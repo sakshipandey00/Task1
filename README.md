@@ -1,1 +1,1 @@
-# Task1
+This dataset contains valuable information about the top YouTube Streamers, including their ranking, categories, subscribers, country, visits, likes, comments, and other details. Task is to perform a comprehensive analysis of the dataset to extract insights about the top Youtubers.
